@@ -1,4 +1,4 @@
-# StormViper-V2.5 -  A Re release to work with Android 12
+# StormViper-V2.5 -  A Re release for Solution on Android 12
 Originally Based on ViperFx V2.5.0.5 
 
 Read Licensing and Terms of Use before Downloading https://github.com/Stormproaudio/StormViper-V2.5/blob/main/LICENSE
