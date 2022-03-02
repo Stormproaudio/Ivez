@@ -11,6 +11,8 @@ We Recommend Magisk V23. And Install Storm Revolution V3 Zip to be install first
 Flash Storm V3 Zip Reboot. Install Stormviper v2.5. Start Stornviper v2.5 recheck driver status ensire all are ok.Test with Audio mp3, wa or various app.
 Ensure Viper is working, Next Disable the Material V3 Apk and only leave Storm Start Stormviper only enbled. REBOOT
 Stormviper V2.5.0.5 Like all Storm Precious releases comes with custom Storm Presets and Original IRS embedded in the actual APK.
-Rvoot To System. So now you only see V2.5 since other version is relevant you must have obly one variant of Viper visible. Tests!
+Rvoot To System. So now you only see V2.5 since other version is relevant you must have only one variant of Viper visible. Tests!
 
 Where to get V3 Storm Revoltion Zip? 
+https://github.com/Stormproaudio/revolution/blob/main/Storm-Revolution-V3-MagiskModule.zip
+Follow instruction aove carefully
