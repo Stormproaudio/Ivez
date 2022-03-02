@@ -7,5 +7,5 @@ This mod was Re Release for use as subtitute for Installation in any custom Rom 
 Read Licensing and Terms of Use before Downloading https://github.com/Stormproaudio/StormViper-V2.5/blob/main/LICENSE
 Once you download means you aggress ro the Terms that is set for thsi release.
 
-We Recommend Magisk V23. This mod Can also wsork along side any Viper4andrpood v2.7 with detected viper Drivers.
+We Recommend Magisk V23. This mod Can also work along side any Viper4andrpood v2.7 with detected viper Drivers.
 Stormviper V2.5.0.5 Like all Storm Prevcious Rereleases comes with custom Presets and Original IRS embedded in the actual APK.
