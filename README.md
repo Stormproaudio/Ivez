@@ -25,4 +25,3 @@ Follow instruction aove carefully!
 
 All Right Are Reserved . All IRs and Convolution are wholly are own by Storm Proaudio may not be sepearted from the apk or copied and repackaged Or ReUploaded.
 More info? https://t.me/s/StormRevolution or https://www.facebook.com/StormProaudio. Thanks ensure you follow this Githiub page before we go provate on Github too!
-
