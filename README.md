@@ -9,5 +9,6 @@ Rvoot To System. So now you only see V2.5 since other version is relevant you mu
 All Right Are Reserved . All IRs and Convolution are wholly are own by Storm Proaudio may not be sepearted from the apk or copied and repackaged Or ReUploaded.
 More info? https://t.me/s/StormRevolution or https://www.facebook.com/StormProaudio. Thanks ensure you follow this Githiub page before we go provate on Github too!
 
-Installation Steps: (Must Read!!)
-https://github.com/Stormproaudio/StormViper-V2.5/blob/main/Install
+Full Installation Steps: (Must Read!!)
+Download ODF for ful and Extensive steps to install in Android 12 Custom Rom (roooted only)
+https://github.com/Stormproaudio/StormViper-V2.5/blob/main/Stormviper%20V2.5%20-%20Android%2012%20Installation%20Steps.pdf
