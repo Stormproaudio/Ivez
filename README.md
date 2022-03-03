@@ -6,10 +6,16 @@ Once you download means you aggress ro the Terms that is set for thsi release.
 
 This mod was Re Release for use as subtitute for Installation in any custom Rom of Android 12. 
 
-Installation Steps:
-We Recommend Magisk V23. And Install Storm Revolution V3 Zip to be install first without any other audio Modules in magisk. 
-Flash Storm V3 Zip Reboot. Install Stormviper v2.5. Start Stornviper v2.5 recheck driver status ensire all are ok.Test with Audio mp3, wa or various app.
-Ensure Viper is working, Next Disable the Material V3 Apk and only leave Storm Start Stormviper only enbled. REBOOT
+Installation Steps: (Must Read!!)
+1.We Recommend Magisk V23 (We recommend dont upgrade to v24) 
+2. If your device already have V2.7.2.1 and a working Viper Driver..You can just directly Install Stormviper V2.5 apk. (it wont update your existing v2.7.2.1 installation) and skip Step 3.
+3.Install Storm Revolution V3 Zip https://github.com/Stormproaudio/revolution/blob/main/Storm-Revolution-V3-MagiskModule.zip ( We recommend fresh install roight after Magisk V23 is insalled a) to be install first without any other audio Modules in magisk. Flash Storm V3 Zip Reboot
+4.Install Stormviper v2.5. Start Storviper v2.5 recheck driver status ensure all are ok. Test with Audio mp3, wa or various app (youtube etc)
+5. Your converted IRS from V2.7.2.1 wont workj wwith this Mod!. This Mod retains old original IRS format. Never copy old conoverted preset to Stormviper preset folder!
+6. Ensure StormViper is working, Next Disable the older Apk (that was installed by Storm Revolution or you old v2.7.2.1 or etc apk) 
+ and only leave Stormviper only enabled. REBOOT !
+ 7. Recheck Viper after Reboot. Its best only leave stormviper on system the rest just disabled ! dont uninstalled old APk or you risk uninstalled the driver!
+ 
 Stormviper V2.5.0.5 Like all Storm Precious releases comes with custom Storm Presets and Original IRS embedded in the actual APK.
 Rvoot To System. So now you only see V2.5 since other version is relevant you must have only one variant of Viper visible. Tests!
 
