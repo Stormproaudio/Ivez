@@ -7,9 +7,13 @@ Once you download means you aggress ro the Terms that is set for thsi release.
 This mod was Re Release for use as subtitute for Installation in any custom Rom of Android 12. 
 
 Installation Steps: (Must Read!!)
+
 1.We Recommend Magisk V23 (We recommend dont upgrade to v24) 
+
 2.If your device already have V2.7.2.1 and a working Viper Driver..You can just directly Install Stormviper V2.5 apk. (it wont update your existing v2.7.2.1 installation) and skip Next Step
+
 3.Install Storm Revolution V3 Zip = https://github.com/Stormproaudio/revolution/blob/main/Storm-Revolution-V3-MagiskModule.zip ( We recommend fresh install roight after Magisk V23 is insalled ) to be install first without any other audio Modules in magisk. Flash Storm V3 Zip Reboot
+
 4.Install Stormviper v2.5. Start Storviper v2.5 recheck driver status ensure all are ok. Test with Audio mp3, wa or various app (youtube etc)
 
 Your converted IRS from V2.7.2.1 wont workj wwith this Mod!. This Mod retains old original IRS format. Never copy old conoverted preset to Stormviper preset folder!
