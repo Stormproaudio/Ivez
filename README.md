@@ -12,3 +12,5 @@ More info? https://t.me/s/StormRevolution or https://www.facebook.com/StormProau
 Installation Steps: (Must Read!!)
 Download ODF for ful and Extensive steps to install in Android 12 Custom Rom (roooted only)
 https://github.com/Stormproaudio/StormViper-V2.5/blob/main/Stormviper%20V2.5%20-%20Android%2012%20Installation%20Steps.pdf
+
+Installation changes for Android 12 ( Working) - Rootless Method
