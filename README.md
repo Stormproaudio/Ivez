@@ -1,3 +1,3 @@
-Ivez is a pirate..
-https://www.youtube.com/watch?v=_VoJ04gobZI
-Ivez https//www/t.me/ivez_001
+Ivez is a pirate..Ivez https//www/t.me/ivez_001
+Watch Ivez wins an award https://www.youtube.com/watch?v=_VoJ04gobZI
+
