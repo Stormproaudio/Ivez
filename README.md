@@ -1,5 +1,12 @@
-Ivez is self confess LGBT and Storm Proaudio most Popular hater, Despite challenging him to produce similar or better sounding efx he isnt able to comply.
-Instead he has chosen to mod Dolby that caused all his repo flagged as Distributing without permission..Ivez is in hiding due to this, nevertheless you can contact himn
-on telegram https://www.t.me/ivez_001 and his channels and group https://t.me/bassconfigs 
-. What Ivez needs to know or his fans need to realize is this https://www.youtube.com/watch?v=_VoJ04gobZI Actually only doing this to us for cloud...and views
+Ivex: Known Sotware Pirate and Copyright Infringement Developer Poser
+
+Ivez a known Storm Proaudio Hater but actually he is a known pirate on telegram https://www.t.me/ivez_001 and his channels and group https://t.me/bassconfigs 
+Recently his repo are closely Monitored by Github and Dolby Corporation for software infringement. Ivez is a known affiliate to Reiryuki also a known Pirate 
+
+Piracy and DMCA Takedowns
+Ivez is associated to Reiryuki a known user that often commit Software Piracy and Copyright Infringement. Read Here 
+https://github.com/reiryuki/Dolby-Atmos-OnePlus-8-Visible-Magisk-Module/discussions/8
+https://github.com/reiryuki/Dolby-Atmos-Razer-Phone-2-Magisk-Module/discussions/15
+https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module/discussions/20
+
 
