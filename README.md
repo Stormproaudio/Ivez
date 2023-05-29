@@ -1,7 +1,5 @@
 Software Pirate and Copyright Infringement Developer Poser, Ivez a known Storm Proaudio Hater but himself is a known pirate on telegram https://www.t.me/ivez_001 and his channels and group https://t.me/bassconfigs is where he does his bidding . His repo and so called works are now closely Monitored by Github and Dolby Corporation for software infringement. 
 
-Ivez is a known affiliate to Reiryuki also a known Pirate in Github
-
 #Piracy and DMCA Takedowns;
 Ivez is associated to Reiryuki a known user that often commit Software Piracy and Copyright Infringement. Read Here 
 
