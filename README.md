@@ -26,4 +26,4 @@ This Readme serves to remind Ivez if you dont respect Intellectual Property Righ
 Thanks for reading !
 
 Jay Joseph Solliano
-CEO Storm Proaudio | WIPO advocate and Member | DMCA.com member | AES member sincew 2006
+CEO Storm Proaudio | WIPO advocate and Member | DMCA.com member | AES Audio Engineering Society member since 2006
