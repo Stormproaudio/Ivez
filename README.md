@@ -16,5 +16,5 @@ https://github.com/reiryuki/Dolby-Atmos-Razer-Phone-2-Magisk-Module/discussions/
 
 Https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module/discussions/20
 
-We are supporters of Open Sourcve and Avid Observer of Copyright and Software Intellectual Property Rights advocates WIPO. Join WIPO today and preserve Intellectual Property Rights and Movement!
+We are supporters of Open Source and Avid Observer of Copyright and Software Intellectual Property Rights, also a member of WIPO. Join WIPO today and preserve Intellectual Property Rights and Movement!
 https://www.wipo.int/treaties/en/
