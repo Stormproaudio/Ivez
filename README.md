@@ -1,15 +1,10 @@
-Software Pirate and Copyright Infringement Developer Ivez a known copyright abuser on telegram https://www.t.me/ivez_001 and his channels and group https://t.me/bassconfigs is where he does his bidding . His repo and so called works are now closely Monitored by Dolby Corporation for software infringements. Despite claimiung his innocense all his works points to his abuses of Terms and Condition of Dolby Corporation.
+Software Pirate, Modder and Copyright abuser Ivez https://www.t.me/ivez_001 are active mainly https://t.me/bassconfigs . His repository in Github and Pling are now closely Monitored by Dolby Corporation for software infringements. Ivez has since remoive his account in Pling and also remove most of the Dolby apk in Github. Despite claiming innocense all proof leads to his channel and works and hge is forced to exclude Dolby apk from his repository. He currently use Devuploads.com to host his configuration. It must be noted here that any configuration or mod tools used to change an original apk either via system or forced by Root or ported from the original devices it was intended be release is strictly prohibited and Permission is required by Dolby Corporation. 
 
-Telegram Files that infringe Dolby Corporation Copyrights. A similar request is sent to dmca@telegram.org for misuse of dolby files which he upload to telegram.
+There still files hosted in Telegram which prooved his abuses. Notificaation is sent to dmca@telegram.org for misuse of dolby files which Ivez or his colleagues has uploaded to his Telegram group and  Channels.
+https://t.me/bassconfigs/29  |  https://t.me/bassconfigs/24  |  https://t.me/bassconfigs/25
 
-https://t.me/bassconfigs/29
-
-https://t.me/bassconfigs/24
-
-https://t.me/bassconfigs/25
-
-#Piracy and DMCA Takedowns;
-Ivez is associated to Reiryuki a known user that often commit Software Piracy and Copyright Infringement. Read Here 
+Association with known Abusers;
+Ivez is associated also known user that often commit Software Piracy and Copyright Infringement of Dolby Sioftwares 
 
 https://github.com/reiryuki/Dolby-Atmos-OnePlus-8-Visible-Magisk-Module/discussions/8
 
