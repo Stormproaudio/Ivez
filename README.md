@@ -23,6 +23,7 @@ https://www.wipo.int/treaties/en/
 
 This Readme serves to remind Ivez if you dont respect Intellectual Property Rights or even deny such abusive activities then It is our resposibility ensure you understand the Law and to remind him and others that all criminal Activities will only lead to legal litigation if not taken seriously. I hope Ivez and his colleagues will comply and repent! Good Day all ! 
 
-Thanks for reading. 
+Thanks for reading !
+
 Jay Joseph Solliano
 CEO Storm Proaudio | WIPO advocate and Member | DMCA.com member | AES member sincew 2006
