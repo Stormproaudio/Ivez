@@ -19,4 +19,4 @@ Https://github.com/reiryuki/Dolby-Atmos-ZTE-A2019-Pro-Magisk-Module/discussions/
 We are supporters of Open Source and Avid Observer of Copyright and Software Intellectual Property Rights, also a member of WIPO. Join WIPO today and preserve Intellectual Property Rights and Movement!
 https://www.wipo.int/treaties/en/
 
-This Readme serves to remind Ivez if you dont respect Intellectual Property Rights or even deny such abusive activities then It is our resposibility ensure you will understand and remind you that all criminal Activities will only lead to legal litigatrion if not taken seriously. I hope Ivez and his colleagues will comply and repent! Good Day all
+This Readme serves to remind Ivez if you dont respect Intellectual Property Rights or even deny such abusive activities then It is our resposibility ensure you understand the Law and to remind him and others that all criminal Activities will only lead to legal litigation if not taken seriously. I hope Ivez and his colleagues will comply and repent! Good Day all ! Thanks for reading. 
