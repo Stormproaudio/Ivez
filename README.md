@@ -1,6 +1,6 @@
 Software Pirate and Copyright Infringement Developer Ivez a known copyright abuser on telegram https://www.t.me/ivez_001 and his channels and group https://t.me/bassconfigs is where he does his bidding . His repo and so called works are now closely Monitored by Dolby Corporation for software infringements. Despite claimiung his innocense all his works points to his abuses of Terms and Condition of Dolby Corporation.
 
-Telegram Files that infringe Dolby Corporation Copyrights. A similar request is sent to dmca@telegram.org for misuse of dolby fies which he upload to telegram.
+Telegram Files that infringe Dolby Corporation Copyrights. A similar request is sent to dmca@telegram.org for misuse of dolby files which he upload to telegram.
 
 https://t.me/bassconfigs/29
 
