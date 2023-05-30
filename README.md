@@ -4,7 +4,7 @@ There still files hosted in Telegram which prooved his abuses. Notificaation is 
 https://t.me/bassconfigs/29  |  https://t.me/bassconfigs/24  |  https://t.me/bassconfigs/25
 
 Association with known Abusers;
-Ivez is associated also known user that often commit Software Piracy and Copyright Infringement of Dolby Sioftwares 
+Ivez is also associated known users that often indulged in Copyright abusers. These individual has no respect on Intellectual Property and rather then look inwards they would blame others for the abuse they themselves have commited. All proof cant  be denied. Despite his claim of Innocense one by one his move is limited and None of his counter accusation stiocks since we do not involved with similar typpe of abusive activities. Rest assure nobody or any Community of users that believe in Intellectual Property will want be associated with such group of users. Ivez has embark in all out war to exclude us so we dont expose his activities. This includes using Bots to spam and banned innocent users which he practices in Telegram. Below are links to hgis associate Reiryuki who has History of DMCA takedown issues.
 
 https://github.com/reiryuki/Dolby-Atmos-OnePlus-8-Visible-Magisk-Module/discussions/8
 
